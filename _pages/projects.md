@@ -1,10 +1,11 @@
 ---
-title: Portfolio
+title: Projects
+permalink: /projects/
+author_profile: true
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+collection: projects
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+A list of portfolio done by myself.
